@@ -1,0 +1,40 @@
+{
+  "meetups" : {
+    "-M72otoniJ9Q6C2MVXwi" : {
+      "address" : "27 Nerd Road, 32523 New York",
+      "contactEmail" : "code@test2.com",
+      "description" : "In this meetup, we will have some experts that teach you how to code!",
+      "imageUrl" : "https://concatenate.io/wp-content/uploads/2020/02/web-development-bootcamps.jpg",
+      "isFavorite" : false,
+      "subtitle" : "Learn to code in 2 hours",
+      "title" : "Coding Bootcamp"
+    },
+    "-M73iJKPmwpdoBA2BGQB" : {
+      "address" : "42 Babel Fish Rd",
+      "contactEmail" : "tech-support@myfunscience.com",
+      "description" : "We're leaving now. Thanks for all the fish!",
+      "imageUrl" : "https://techcrunch.com/wp-content/uploads/2016/06/2016-06-27_1940.png?w=730&crop=1",
+      "isFavorite" : true,
+      "subtitle" : "Learn about NoSQL",
+      "title" : "MongoDB"
+    },
+    "-M73jfH7Os1Y-Gfmd-Pc" : {
+      "address" : "32 Globe St, London, UK SW3",
+      "contactEmail" : "brad@mehder.com",
+      "description" : "Learn why it is a good idea to study public speaking before doing it. Plus, a Q&A by Rich Harris.",
+      "imageUrl" : "https://miro.medium.com/max/3840/1*oHCbzzQSSmDF9icaxCk3iw.jpeg",
+      "isFavorite" : true,
+      "subtitle" : "Learn about Svelte and Sapper",
+      "title" : "Svelte Society Day"
+    },
+    "-M73kM-_BWtr75l4Ly21" : {
+      "address" : "52 Crockford Ave, New York, NY 10002",
+      "contactEmail" : "brad@mehder.com",
+      "description" : "Join us at JSConf EU where everyone uses the same restroom but everyone seems to manage anyway.",
+      "imageUrl" : "https://confs.space/conf/js-conf-2019/js-conf-eu-2019.png",
+      "isFavorite" : false,
+      "subtitle" : "JS is much better now.",
+      "title" : "JSConf EU 2019"
+    }
+  }
+}
